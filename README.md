@@ -1,4 +1,4 @@
-# PHP & Stripe API PayPage App
+# PHP & Stripe API Payment App
 
 > Product payment page built with PHP, MYSQL, PDO and the Stripe API.
 
@@ -16,13 +16,6 @@ composer install
 
 # Visit server location
 ```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
